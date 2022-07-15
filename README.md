@@ -1,6 +1,6 @@
 # E-Commerce
 
-I have made a ecommerce website using Bootstrap 5.
+I have made a ecommerce website using Bootstrap 5 which looks like a Flipkart webpage.
 
 It's work in progress.
 
